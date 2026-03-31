@@ -1,17 +1,34 @@
-# todo list app (python)
-A simple command-line Todo List
-application built susing Python
+📝 Todo List App (Python)
 
-## HOW TO RUN 
-1.make sure PYTHON is intstalled
-2.open terminal
-3.Run:
+A simple command-line Todo List application built using Python.
+
+---
+
+🚀 Features
+
+- Add tasks
+- View tasks
+- Remove tasks
+- Simple menu-based system
+
+---
+
+▶️ How to Run
+
+1. Make sure Python is installed
+2. Open terminal
+3. Run:
+
 python todo.py
 
-## AUTHOR
-SHERLIN GRACE CHOPPAVARAPU
+---
 
------
+👩‍💻 Author
 
-THIS IS MY FIRST MINI PROJECT
+Sherlin Grace Choppavarapu
 
+---
+
+⭐ Note
+
+This is my first mini project 🚀
